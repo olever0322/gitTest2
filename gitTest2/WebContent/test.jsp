@@ -11,8 +11,12 @@
 			<li>git add</li>
 			<li>git push</li>
 			<li>git fetch</li>
-			<li>git merge</li>
-			
+			<li>git merge</li>		
+		</ul>
+		<ul>
+			<li>git pull</li>
+			<li>git log</li>
+			<li>git commit</li>
 		</ul>
 </body>
 </html>
